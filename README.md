@@ -5,8 +5,9 @@ This website retrieves top news headlines from News API.
 
 __Requirements__:
 
-A News API account with a valid API key (Free tier available for development) - https://newsapi.org/
-A live server environment (Local server or hosting provider). Browser-based requests are not allowed in the developer plan.
+* A News API account with a valid API key (Free tier available for development) - https://newsapi.org/
+
+* A live server environment (Local server or hosting provider). Browser-based requests are not allowed in the developer plan.
 
 
 __Installation__:
